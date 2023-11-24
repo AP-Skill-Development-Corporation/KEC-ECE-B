@@ -10,3 +10,7 @@ Python Basics for 3rd years
   - Jupyter notebook Overview,markdown format with sample example on it
   - Python Basics Like Variable,Assignment of Variable with sample example on it
   - Data types,Type and Operators with sample example on it
+
+## Day-03(24-11-2023):
+  - Input and Output Formatting with sample examples on it
+  - Typecasting and conditional statements overview
