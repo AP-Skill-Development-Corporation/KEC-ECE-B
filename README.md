@@ -14,3 +14,8 @@ Python Basics for 3rd years
 ## Day-03(24-11-2023):
   - Input and Output Formatting with sample examples on it
   - Typecasting and conditional statements overview
+
+## Day-04(25-11-2023):
+  - Conditional Statemnets if,if-else,nested if and elif with sample examples on each
+  - Loops Overview,for,range and while with sample examples on each
+  - Jumping Statements Overview
