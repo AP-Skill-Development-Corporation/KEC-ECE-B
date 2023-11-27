@@ -1,0 +1,60 @@
+Day-04[25-11-2023]:
+===================
+	Good Morning All..
+
+	Topics Covered:
+	===============
+		- Conditional Statements
+		- Loops Overview,for and while 
+		- Jumping Statements
+
+	Task:
+	=====
+		- Function and its types
+		- User Defined Function Types
+		- Function Argument Types
+		- Data Structures Overview
+
+		Problem-1:
+		==========
+			Input-1:
+			========
+				Enter a number: 1587
+			Output-1:
+			=========
+				Entered number is: 1587 
+				Reverse number is: 7851
+				Even numbers are: 8
+				Odd numbers are: 1 5 7
+
+			Input-2:
+			========
+				Enter a number: 25689
+			Output-2:
+			=========
+				Entered number is: 25689
+				Reverse number is: 98652
+				Even numbers are: 2 6 8
+				Odd numbers are: 5 9
+
+		Problem-2:
+		==========
+			Input-1:
+			========
+				Enter a number: 5689
+			Output-1:
+			=========
+				Entered number is: 5689 
+				Reverse number is: 9865
+				Left Half reverse number is: 6589 
+				Right Half reverse number is: 5698
+
+			Input-2:
+			========
+				Enter a number: 25345
+			Output-2:
+			=========
+				Entered number is: 25345
+				Reverse number is: 54325
+				Left Half reverse number is: 52345
+				Right Half reverse number is: 25354
