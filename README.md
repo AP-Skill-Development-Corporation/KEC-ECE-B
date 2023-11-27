@@ -16,6 +16,10 @@ Python Basics for 3rd years
   - Typecasting and conditional statements overview
 
 ## Day-04(25-11-2023):
-  - Conditional Statemnets if,if-else,nested if and elif with sample examples on each
+  - Conditional Statements if,if-else,nested if and elif with sample examples on each
   - Loops Overview,for,range and while with sample examples on each
   - Jumping Statements Overview
+
+## Day-05(27-11-2023):
+  - Jumping Statements with sample examples on each
+  - Inner Loops with sample example on it
