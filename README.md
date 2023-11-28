@@ -23,3 +23,7 @@ Python Basics for 3rd years
 ## Day-05(27-11-2023):
   - Jumping Statements with sample examples on each
   - Inner Loops with sample example on it
+
+## Day-06(28-11-2023):
+  - Inner Loops with sample example on it
+  - Practiced hackerrank problem
